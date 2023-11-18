@@ -1,1 +1,1 @@
-# minecraft_club
+# Minecraft Club EDN
