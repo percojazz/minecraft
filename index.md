@@ -1,6 +1,7 @@
 # Minecraft Club
 
 Le club minecraft comprend plusieurs membres.
+![minecraft block](images/minecraft_block.jpg)
 
 ## membres du club
 
