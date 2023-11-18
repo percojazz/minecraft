@@ -14,7 +14,7 @@ Le club minecraft comprend plusieurs membres.
 - Createur du mod: Ivan
 - Createur du groupe: Jesaiah
 
-Groupe 1: Montchoisy Gang
+Groupe 1: Warden
 - Ivan
 - Jesaiah
 - Stan
@@ -22,7 +22,7 @@ Groupe 1: Montchoisy Gang
 - Louis
 - Marlon
 
-Groupe 2:
+Groupe 2: Pinglin
 - Loic
 - Fabien
 - Willy
