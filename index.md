@@ -1,3 +1,9 @@
+---
+layout: default
+title: Minecraft Club
+---
+
+
 # Minecraft Club
 
 Le club minecraft comprend plusieurs membres.
