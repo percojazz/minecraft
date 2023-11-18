@@ -30,12 +30,14 @@ Groupe 2:
 - Esteban
 - Elliel
 
-## Activites
+## Activites Secretes Reservees aux membres exclusifs du club
+https://percojazz.github.io/minecraft/secret.html
 
 
 ## Serveur
 
 Comment joindre le serveur.
+
 
 ## Tresorerie
 
